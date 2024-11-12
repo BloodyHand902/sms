@@ -10,7 +10,7 @@ from colorama import Fore, Style
 
 
 
-class SendSms():
+
 class SendSms():
 
 
